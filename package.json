@@ -1,0 +1,13 @@
+{
+  "title": "Accountabilibuddy",
+  "name": "accountabilibuddy-firefox",
+  "version": "0.0.1",
+  "description": "Accountabilibuddy as defined by Urban Dictionary - The name for a buddy you love so much, that you hold yourself accountable for his well-being.",
+  "main": "lib/index.js",
+  "author": "Anthony Wikkerink <awikkeri@gmail.com>",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
